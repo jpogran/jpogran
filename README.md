@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developer experience at [Puppet](https://www.puppet.com)
+- 🌱 I’m currently learning golang
+- 💬 I've made some videos https://youtube.com/playlist?list=PLAmivuhLZIDXyVgFsWHitFlWmLYJl820A
+- 📫 How to reach me: https://jamespogran.com/about
+- 😄 Pronouns: he/him
+
+![James's github stats](https://github-readme-stats.vercel.app/api?username=jpogran&show_icons=true&theme=radical)
+
 <!--
 **jpogran/jpogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
