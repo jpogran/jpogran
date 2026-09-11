@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developer experience tooling
-- 🌱 I’m currently learning golang
+- 🔭 I’m a Senior Software Engineer at IBM (HashiCorp), working on Terraform Cloud's Git & VCS Services platform
+- 🌱 Lately I've been digging into running Go workers on Nomad at scale, and where AI agents actually hold up (and don't) on production-grade work
+- ✍️ Writing again after a nine-year gap: https://pogran.dev
 - 💬 I've made some videos https://youtube.com/playlist?list=PLAmivuhLZIDXyVgFsWHitFlWmLYJl820A
-- 📫 How to reach me: https://jpogran.github.io/about
+- 🏢 Work contributions go through https://github.com/jpogran-hashi, my employer-linked account
+- 📫 How to reach me: https://pogran.dev/about
 - 😄 Pronouns: he/him
 
 <!--
